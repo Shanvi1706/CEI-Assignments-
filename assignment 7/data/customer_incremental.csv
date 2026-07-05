@@ -1,0 +1,31 @@
+customer_id,customer_name,segment,country,city,state,region,postal_code
+AH-10030,Aaron Hawkins,Home Office,United States,Georgetown,Pennsylvania,East,19134
+AW-10930,Arthur Wiediger,Consumer,United States,Madison,Illinois,Central,60505
+BF-11020,Barry Französisch,Home Office,United States,Springfield,Wisconsin,Central,54302
+BG-11035,Barry Gonzalez,Home Office,United States,Georgetown,Louisiana,South,71203
+CA-12310,Christine Abelman,Consumer,United States,Fairview,Ohio,East,45231
+CH-12070,Cathy Hwang,Consumer,United States,Madison,North Carolina,South,27604
+CS-11845,Cari Sayre,Home Office,United States,Georgetown,Washington,West,98105
+CS-12250,Chris Selesnick,Corporate,United States,Springfield,Louisiana,South,71111
+Co-12640,Corey-Lock,Home Office,United States,Springfield,Pennsylvania,East,19143
+EJ-13720,Ed Jacobs,Home Office,United States,Riverside,California,West,92037
+GA-14725,Guy Armstrong,Home Office,United States,Riverside,Ohio,East,44052
+JD-15895,Jonathan Doherty,Home Office,United States,Fairview,Pennsylvania,East,19140
+JE-15745,Joel Eaton,Consumer,United States,Georgetown,Tennessee,South,38109
+JS-16030,Joy Smith,Home Office,United States,Georgetown,Texas,Central,77036
+MC-17605,Matt Connell,Corporate,United States,Riverside,Michigan,Central,48234
+ML-18265,Muhammed Lee,Consumer,United States,Georgetown,Washington,West,98103
+ND-18460,Neil Ducich,Corporate,United States,Georgetown,Georgia,South,31204
+PK-18910,Paul Knutson,Corporate,United States,Springfield,Pennsylvania,East,19143
+SP-20920,Susan Pistek,Corporate,United States,Riverside,California,West,90036
+SS-20140,Saphhira Shifley,Corporate,United States,Madison,Rhode Island,East,2886
+NC-10000,New Customer 1,Home Office,United States,Springfield,Ohio,West,42606
+NC-10001,New Customer 2,Home Office,United States,Fairview,Texas,South,21534
+NC-10002,New Customer 3,Consumer,United States,Madison,Georgia,West,50397
+NC-10003,New Customer 4,Consumer,United States,Fairview,Ohio,East,11016
+NC-10004,New Customer 5,Home Office,United States,Georgetown,Georgia,Central,99789
+NC-10005,New Customer 6,Corporate,United States,Georgetown,Georgia,West,65591
+NC-10006,New Customer 7,Consumer,United States,Georgetown,Ohio,West,99812
+NC-10007,New Customer 8,Corporate,United States,Georgetown,Ohio,South,33247
+NC-10008,New Customer 9,Corporate,United States,Madison,Ohio,West,34300
+NC-10009,New Customer 10,Corporate,United States,Riverside,Ohio,West,84065
