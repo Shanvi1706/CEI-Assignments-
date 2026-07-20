@@ -1,0 +1,91 @@
+ticket_id,agent_id,status,resolution_time
+T01000,A037,Resolved,0h 89m 24s
+T01001,A032,Resolved,0h 18m 41s
+T01002,A001,Pending,0h 13m 49s
+T01003,A028,Resolved,0h 89m 33s
+T01004,A030,Resolved,0h 31m 58s
+T01005,A008,Resolved,0h 59m 42s
+T01006,A034,In Progress,0h 76m 20s
+T01007,A029,Resolved,0h 64m 27s
+T01008,A036,Resolved,0h 20m 47s
+T01009,A031,Resolved,0h 31m 53s
+T01010,A018,Pending,0h 66m 31s
+T01011,A016,Resolved,0h 9m 45s
+T01012,A019,Resolved,0h 42m 20s
+T01013,A035,Resolved,0h 19m 14s
+T01014,A025,Resolved,0h 90m 13s
+T01015,A005,Resolved,0h 42m 34s
+T01016,A030,Resolved,0h 26m 53s
+T01017,A027,Resolved,0h 74m 44s
+T01018,A002,Pending,0h 73m 24s
+T01019,A031,Resolved,0h 45m 19s
+T01020,A025,Pending,0h 53m 34s
+T01021,A035,Pending,0h 28m 31s
+T01022,A015,Resolved,0h 62m 1s
+T01023,A025,Resolved,0h 86m 51s
+T01024,A026,Pending,0h 59m 58s
+T01025,A009,In Progress,0h 68m 1s
+T01026,A026,Resolved,0h 84m 1s
+T01027,A006,Resolved,0h 17m 55s
+T01028,A030,Resolved,0h 33m 24s
+T01029,A021,Resolved,0h 41m 21s
+T01030,A025,Resolved,0h 53m 16s
+T01031,A006,Resolved,0h 69m 3s
+T01032,A023,Resolved,0h 8m 49s
+T01033,A003,Pending,0h 31m 12s
+T01034,A002,Resolved,0h 30m 8s
+T01035,A031,Resolved,0h 72m 13s
+T01036,A030,Resolved,0h 47m 10s
+T01037,A039,Resolved,0h 14m 49s
+T01038,A011,In Progress,0h 13m 37s
+T01039,A002,In Progress,0h 73m 43s
+T01040,A025,Resolved,0h 25m 4s
+T01041,A038,Resolved,0h 80m 15s
+T01042,A007,Resolved,0h 38m 54s
+T01043,A039,Pending,0h 72m 50s
+T01044,A003,Resolved,0h 54m 42s
+T01045,A024,Resolved,0h 82m 21s
+T01046,A001,Pending,0h 62m 6s
+T01047,A028,In Progress,0h 81m 57s
+T01048,A030,Pending,0h 55m 11s
+T01049,A034,In Progress,0h 34m 39s
+T01050,A035,Pending,0h 59m 27s
+T01051,A038,Resolved,0h 31m 53s
+T01052,A006,Resolved,0h 57m 15s
+T01053,A030,Resolved,0h 85m 24s
+T01054,A022,Resolved,0h 41m 11s
+T01055,A032,Resolved,0h 33m 21s
+T01056,A018,Pending,0h 89m 56s
+T01057,A018,Resolved,0h 66m 12s
+T01058,A006,Resolved,0h 52m 31s
+T01059,A036,Pending,0h 88m 30s
+T01060,A032,Resolved,0h 2m 5s
+T01061,A019,Resolved,0h 88m 15s
+T01062,A020,Resolved,0h 47m 30s
+T01063,A036,Resolved,0h 54m 47s
+T01064,A036,Resolved,0h 89m 29s
+T01065,A018,Resolved,0h 29m 7s
+T01066,A013,Resolved,0h 68m 48s
+T01067,A012,Resolved,0h 61m 17s
+T01068,A038,In Progress,0h 67m 38s
+T01069,A019,In Progress,0h 24m 18s
+T01070,A015,Resolved,0h 38m 0s
+T01071,A035,Resolved,0h 5m 3s
+T01072,A036,Resolved,0h 16m 40s
+T01073,A032,Resolved,0h 1m 36s
+T01074,A019,Resolved,0h 56m 21s
+T01075,A012,In Progress,0h 32m 55s
+T01076,A031,Resolved,0h 8m 25s
+T01077,A032,Resolved,0h 80m 43s
+T01078,A004,Resolved,0h 72m 19s
+T01079,A006,In Progress,0h 15m 35s
+T01080,A027,Resolved,0h 79m 14s
+T01081,A034,Resolved,0h 56m 19s
+T01082,A038,In Progress,0h 39m 36s
+T01083,A040,Resolved,0h 12m 48s
+null,null,Resolved,null
+T01085,null,Resolved,null
+T01086,A041,Resolved,0h 70m 4s
+T01087,A041,Resolved,0h 0m 26s
+T01088,A042,Resolved,0h 88m 38s
+T01089,A042,Resolved,0h 37m 2s
