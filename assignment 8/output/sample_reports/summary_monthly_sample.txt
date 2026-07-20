@@ -1,0 +1,17 @@
+
+MONTHLY SUMMARY REPORT
+Period: 2024-01-01 to 2024-01-31
+(Previous period for comparison: 2023-12-01 to 2023-12-31)
+-------------------------------------------------------
+Metric            Current Period  Previous Period  % Change
+----------------  --------------  ---------------  --------
+Total Orders      52              61               -14.75% 
+Revenue           4177674.25      7489581.12       -44.22% 
+Unique Customers  49              53               -7.55%  
+
+Top 3 Products (by units sold):
+Product          Units Sold
+---------------  ----------
+How Academic     12        
+Happen Kitchen   11        
+Concern Fiction  10        

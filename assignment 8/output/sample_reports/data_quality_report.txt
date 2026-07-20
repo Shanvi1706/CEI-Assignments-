@@ -1,0 +1,30 @@
+DATA QUALITY REPORT
+==================================================
+Generated: 2026-07-12 20:41:55
+
+[customers] total rows: 600
+[customers] invalid emails found: 7
+[customers] sample invalid-email customer_ids: 61, 238, 279, 382, 433, 513, 528
+
+[products] total rows: 548
+[products] names normalized (trim/title-case): 186
+[products] invalid cost_price values: 0
+
+[orders] total rows: 2000
+[orders] missing customer_id -> set to 'UNKNOWN': 105
+[orders] date format fixed (DD-MM-YYYY -> YYYY-MM-DD HH:MM:SS): 99
+[orders] rows dropped (unparseable date): 0
+
+[order_items] total rows: 4920
+[order_items] rows referencing non-existent order_id: 6
+[order_items] sample orphan order_ids: 4123, 4925, 5758, 3074, 5341, 5203
+[order_items] orphan rows removed: 6
+[order_items] rows flagged as returns (negative qty): 157
+[order_items] discount_percent out of 0-100 range (clipped): 0
+[order_items] zero-quantity rows found: 0
+
+Cleaned files written to data/cleaned/:
+  - customers_clean.csv
+  - products_clean.csv
+  - orders_clean.csv
+  - order_items_clean.csv

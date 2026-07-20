@@ -1,0 +1,15 @@
+
+TOP 10 CUSTOMERS BY TOTAL ORDER VALUE
+-------------------------------------------------------
+Customer ID  Customer Name        Total Value
+-----------  -------------------  -----------
+387          Ashley Perkins       1585238.6  
+41           Melissa Marquez      1573942.94 
+150          Dana Terry           1298657.35 
+341          Mrs. Maria Williams  1232887.94 
+255          Elizabeth Harrell    1101805.44 
+592          Kathryn Mccann       1041594.56 
+152          Hannah Patterson     1020984.43 
+193          Tammy Gonzales       993853.9   
+73           Joshua Turner        976395.94  
+424          Haley Humphrey       974749.28  
